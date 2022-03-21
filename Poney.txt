@@ -1,0 +1,11 @@
+class Poney {
+int runLevel;
+
+run(){
+if (runLevel > 3) {
+"Pataclop pataclop!"
+}else{
+"Trot trot trot..."
+        }
+    }
+}
