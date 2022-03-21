@@ -1,0 +1,11 @@
+class Cat {
+int age;
+
+shout() {
+if (age < 1) {
+"Mwrou trop mignon"
+}else{
+"Miaou"
+      }
+   }
+}
