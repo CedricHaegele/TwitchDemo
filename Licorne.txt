@@ -1,0 +1,14 @@
+class Licorne {
+int fabulousness;
+
+rub(){
+if (fabulousness > THE_MAXIMUM){
+sparklesEvewhere()
+}else{
+"I'm Just a horse with a spike on head"
+  }
+}
+sparklesEverywhere(){
+"Sparkles ! Sparkles!Sparkles!"
+  }
+}
